@@ -22,8 +22,8 @@ from telegram.ext import (
 )
 
 # Bot data
-__BOT_Token: Final = "6059638981:AAERAyJYSXzGFKlmg_DsnplnArSYNiwBLrs"
-Developer_ID = ["your id"]
+__BOT_Token: Final = "Your Bot Token"
+Developer_ID = ["Your id"]
 
 # config & setup logging format
 logging.basicConfig(format='%(levelname)s - (%(asctime)s) - %(message)s - (Line: %(lineno)d) - [%(filename)s]',
