@@ -3,7 +3,7 @@ from random import randint
 
 class GPT:
     def __init__(self, text):
-        self.API = ai.api_key = "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"
+        self.API = ai.api_key = "Your Api Key"
         self.TEXT = text
 
     def gpt_response(self):
